@@ -47,7 +47,7 @@
         "babel-cli": "^6.26.0",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
-        "electron": "^34.1.1",
+        "electron": "^41.10.6",
         "electron-builder": "^25.1.8",
         "execa": "^9.5.2",
         "identity-obj-proxy": "^3.0.0",
